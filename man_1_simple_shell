@@ -1,0 +1,7 @@
+.TH SHELLBY 1 "October 2021" "ALX-HOLBERTON School" "0x16. C - Simple Shell"
+.SH NAME
+.LOREM\fR \- simple UNIX command interpreter
+.SH SYNOPSIS
+.LOREM\fR [\fIfilename\fR]
+.SH DESCRIPTION
+.B LOREM\fR is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.
